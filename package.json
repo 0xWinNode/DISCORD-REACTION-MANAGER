@@ -1,0 +1,29 @@
+{
+  "name": "discord-reaction-manager",
+  "version": "1.0.2",
+  "description": "A simple package for managing reactions on Discord messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dante4rt/discord-reaction-manager"
+  },
+  "keywords": [
+    "discord",
+    "reaction",
+    "manager"
+  ],
+  "author": "dante4rt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dante4rt/discord-reaction-manager/issues"
+  },
+  "homepage": "https://github.com/dante4rt/discord-reaction-manager#readme",
+  "dependencies": {
+    "discord-server-utils": "^1.0.0",
+    "discord-simple-api": "^1.0.6",
+    "telegram-snippet-post": "^1.0.0"
+  }
+}
